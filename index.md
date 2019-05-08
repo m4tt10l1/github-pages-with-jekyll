@@ -1,3 +1,3 @@
-# Benvenuto nel mio Blog
+# Benvenuto nel mio Blog 
 
 Sono contento che tu sia qui. Ho intenzione di parlarti delle pagine create con Jekyll ...
